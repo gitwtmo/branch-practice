@@ -1,2 +1,3 @@
 if __init__ == '__main__':
-    print('Hello')
+    for i in range(10)
+    print(f'Hello {i+1}th times')
